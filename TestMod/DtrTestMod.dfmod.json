@@ -1,0 +1,22 @@
+{
+    "ModTitle": "DTR Test Mod",
+    "ModVersion": "1.0.0",
+    "ModAuthor": "Excoriated",
+    "ContactInfo": "",
+    "DFUnity_Version": "1.1.1",
+    "ModDescription": "Test mod for the DungeonTextureReplacer library. Applies some texture replacements to every dungeon entered.",
+    "GUID": "4f338575-4a2a-4667-9dd1-58c4330d89bf",
+    "Files": [
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/DungeonTextureReplacer/DungeonTextureReplacer.cs",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/DungeonTextureReplacer/DungeonTexturePack.cs",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/DtrTestMod.cs",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/Door1.png",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/4-0.PNG",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/Door2.png",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/3-0.PNG",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/2-0.PNG",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/0-0.PNG",
+        "Assets/Game/Mods/DFU-DungeonTextureReplacer/TestMod/Textures/1-0.PNG"
+    ],
+    "Dependencies": []
+}
