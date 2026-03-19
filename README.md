@@ -19,7 +19,7 @@ Are registered with `RegisterDoorTextures(params)`. Door textures get replaced r
 
 ## Usage
 
-For a full example see the `TestMod` folder
+For a full example see the `TestMod` folder. Clone this whole repo into `Assets/Game/Mods/` in your Unity project.
 
 ## Idea
 
